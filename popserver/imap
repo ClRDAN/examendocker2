@@ -1,0 +1,10 @@
+service imap
+{
+	disable		= no
+	socket_type	= stream
+	wait		= no
+	user		= root
+	server		= /usr/local/etc/imapd
+	groups		= yes
+	flags		= REUSE IPv6
+}
