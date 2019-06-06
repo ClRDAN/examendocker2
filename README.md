@@ -1,5 +1,5 @@
 # examendocker
-## Examen final M11-SAD UF4. Docker (alta disponibilidad)
+## Examen RECUPERACION M11-SAD UF4. Docker (alta disponibilidad)
 Crear una imagen de Docker con un servidor de correo POP uw-imap y ejecutarla en una máquina de AWS. Comprobar el funcionamiento de la máquina.
 
 Repositorio de las imágenes docker:  
